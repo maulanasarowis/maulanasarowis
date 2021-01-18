@@ -26,8 +26,6 @@ Currently I am open to any opportunity especially in IT as a web developer.
 <a href="https://www.php.net" target="_blank"> <img src="https://img.icons8.com/offices/480/000000/php-logo.png" alt="php" width="40" height="40"/> </a></p>
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.icons8.com/color/480/fa314a/visual-studio-code-2019.png" alt="visual studio code" width="40" height="40"/> </a></p>
 
-https://img.icons8.com/officel/16/000000/php-logo.png
-
 #### Profile Visits
 
 ![visitors](https://komarev.com/ghpvc/?username=maulanasarowis&label=Profile%20views&color=0e75b6&style=flat)
