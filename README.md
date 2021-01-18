@@ -23,7 +23,8 @@ Currently I am open to any opportunity especially in IT as a web developer.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/480/000000/javascript.png" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://img.icons8.com/color/480/fa314a/adobe-photoshop.png" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.php.net" target="_blank"> <img src="https://img.icons8.com/offices/480/000000/php-logo.png" alt="php" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.icons8.com/color/480/fa314a/visual-studio-code-2019.png" alt="visual studio code" width="40" height="40"/> </a></p>
+<a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.icons8.com/color/480/fa314a/visual-studio-code-2019.png" alt="visual studio code" width="40" height="40"/> </a>
+</p>
 
 #### Profile Visits
 
