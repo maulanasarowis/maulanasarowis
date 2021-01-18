@@ -4,9 +4,9 @@ Currently I am open to any opportunity especially in IT as a web developer.
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maulanasarowis/)
-[![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/maulanasarowis)
-[![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:maulanasarowis@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Maulana-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maulanasarowis/)
+[![Mail Badge](https://img.shields.io/badge/-@maulanasarowis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/maulanasarowis)
+[![Mail Badge](https://img.shields.io/badge/-maulanasarowis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:maulanasarowis@gmail.com)
 
 - 🌱 I’m currently learning **react**
 - 👨‍💻 All of my projects are available at [https://maulanasarowis.github.io/](https://maulanasarowis.github.io/)
@@ -19,11 +19,12 @@ Currently I am open to any opportunity especially in IT as a web developer.
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank"> <img src="https://cdn-images-1.medium.com/max/1200/1*DG5eBssbHsAyh_RtTRz8mQ@2x.png" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/maulanasarowis/maulanasarowis.github.io/tree/master/assets/figma.png" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/maulanasarowis/maulanasarowis.github.io/tree/master/assetsjavascript.png" alt="javascript" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://github.com/maulanasarowis/maulanasarowis.github.io/tree/master/assets/photoshop.png" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a></p>
+<a href="https://code.visualstudio.com" target="_blank"> <img src="https://github.com/maulanasarowis/maulanasarowis.github.io/tree/master/assets/vscode.png" alt="php" width="40" height="40"/> </a></p>
 
 #### Profile Visits
 
