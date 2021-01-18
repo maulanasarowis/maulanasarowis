@@ -6,7 +6,7 @@ Currently I am open to any opportunity especially in IT as a web developer.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Maulana-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maulanasarowis/)
 [![Mail Badge](https://img.shields.io/badge/-@maulanasarowis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/maulanasarowis)
-[![Mail Badge](https://img.shields.io/badge/-maulanasarowis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:maulanasarowis@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-maulanasarowis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=maulanasarowis@gmail.com)
 
 - 🌱 I’m currently learning **react**
 - 👨‍💻 All of my projects are available at [https://maulanasarowis.github.io/](https://maulanasarowis.github.io/)
