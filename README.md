@@ -15,15 +15,15 @@ Currently I am open to any opportunity especially in IT as a web developer.
 #### Languages and Tools
 
 <p align="left">
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/480/000000/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/maulanasarowis/maulanasarowis.github.io/tree/master/assets/figma.png" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/maulanasarowis/maulanasarowis.github.io/tree/master/assetsjavascript.png" alt="javascript" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/480/000000/javascript.png" alt="javascript" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/480/000000/nodejs.png" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://github.com/maulanasarowis/maulanasarowis.github.io/tree/master/assets/photoshop.png" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank"> <img src="https://img.icons8.com/offices/1000/000000/php-logo.png" alt="php" width="40" height="40"/> </a></p>
+<a href="https://www.php.net" target="_blank"> <img src="https://img.icons8.com/offices/480/000000/php-logo.png" alt="php" width="40" height="40"/> </a></p>
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://github.com/maulanasarowis/maulanasarowis.github.io/tree/master/assets/vscode.png" alt="visual studio code" width="40" height="40"/> </a></p>
 
 https://img.icons8.com/officel/16/000000/php-logo.png
