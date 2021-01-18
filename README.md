@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Maulana Sarowis</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" alt="hi">, I'm Maulana Sarowis</h1>
 <h3 align="center">Currently I am open to any opportunity especially in IT as a web developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maulanasarowis&label=Profile%20views&color=0e75b6&style=flat" alt="maulanasarowis" /> </p>
 
 - 🌱 I’m currently learning **react native**
 
@@ -22,6 +20,12 @@
 <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a></p>
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=maulanasarowis&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maulanasarowis&show_icons=true&locale=en&layout=compact" alt="maulanasarowis" />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maulanasarowis&label=Profile%20views&color=0e75b6&style=flat" alt="maulanasarowis" /> </p>
+    
+#### Github Stats
+
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=maulanasarowis&count_private=true&theme=tokyonight&hide=contribs,prs)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=maulanasarowis&show_icons=true&locale=en&layout=compact" alt="maulanasarowis" />
+
 </p>
