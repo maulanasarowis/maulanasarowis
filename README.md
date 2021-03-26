@@ -32,6 +32,6 @@ Currently I am open to any opportunity especially in IT as a web developer.
 
 #### Github Stats
 
-![maulansarowis github stats](https://github-readme-stats.vercel.app/api?username=maulanasarowis&count_private=true&show_icons=true&include_all_commits=false&theme=tokyonight)
+![maulansarowis github stats](https://github-readme-stats.vercel.app/api?username=maulanasarowis&count_private=true&show_icons=true&include_all_commits=false&theme=tokyonight&hide_border=true)
 
-![maulansarowis github languages](https://github-readme-stats.vercel.app/api/top-langs?username=maulanasarowis&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![maulansarowis github languages](https://github-readme-stats.vercel.app/api/top-langs?username=maulanasarowis&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true)
