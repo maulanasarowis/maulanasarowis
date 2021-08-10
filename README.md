@@ -9,7 +9,7 @@ Currently I am open to any opportunity especially in IT as a web developer.
 [![Mail Badge](https://img.shields.io/badge/-maulanasarowis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=maulanasarowis@gmail.com)
 
 - 🌱 I’m currently learning **react**
-- 👨‍💻 All of my projects are available at [maulanasarowis.netlify.app](https://maulanasarowis.netlify.app)
+- 👨‍💻 All of my projects are available at [maulanasarowis.xyz](https://maulanasarowis.xyz)
 - 📫 How to reach me **maulanasarowis@gmail.com**
 
 #### Languages and Tools
