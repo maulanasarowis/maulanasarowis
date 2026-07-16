@@ -4,7 +4,7 @@
 
 <h1>Halo, Saya Maulana Sarowis 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E76A8&center=true&vCenter=true&width=550&lines=Web+Developer+%F0%9F%92%BB;React+%26+React+Native+Enthusiast;Open+to+IT%2FWeb+Dev+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E76A8&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;Backend%3A+C%23+%26+ASP.NET;Frontend%3A+React;AI-Assisted+Development+%F0%9F%A4%96;Open+to+IT%2FWeb+Dev+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -26,18 +26,25 @@
 
 ## 🧑‍💻 Tentang Saya
 
-- 🌱 Sedang belajar **React** & terus memperdalam ekosistemnya
-- 💼 Terbuka untuk peluang sebagai **Web Developer**
-- 📂 Lihat semua proyek saya di **[maulanasarowis.xyz](https://maulanasarowis.xyz)**
+Saya seorang **Web Developer** yang saat ini fokus memperdalam sisi **Backend menggunakan C# ASP.NET**, dipadukan dengan pengalaman di sisi **Frontend (React)**, sehingga bisa membangun aplikasi web secara *end-to-end*.
+
+- 💼 Fokus utama: **Web Developer (Full-Stack)** — terbuka untuk peluang di bidang IT
+- 🔧 Sedang memperdalam **Backend Development** dengan **C# & ASP.NET**
+- 🌱 Terus mengasah **React** untuk sisi Frontend
+- 🤖 Memanfaatkan **AI dalam alur kerja development** — mulai dari *coding assistant*, *debugging*, hingga *code review* untuk mempercepat & meningkatkan kualitas kode
+- 📂 Semua proyek saya bisa dilihat di **[maulanasarowis.xyz](https://maulanasarowis.xyz)**
 - 📫 Hubungi saya di **maulanasarowis@gmail.com**
-- ⚡ Fun fact: suka eksplorasi UI/UX dari desain ke kode nyata
 
 <br/>
 
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,firebase,python,figma,php,html,css,bootstrap,vscode,git,github&theme=dark" alt="skill icons" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,firebase,python,figma,php,html,css,bootstrap,vscode,git,github&theme=dark" alt="skill icons" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AI--Assisted%20Development-Copilot%20%7C%20ChatGPT%20%7C%20Claude-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI tools" />
 </p>
 
 <br/>
@@ -68,32 +75,6 @@
 <img src="https://raw.githubusercontent.com/maulanasarowis/maulanasarowis/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
-
-> 💡 **Catatan:** Animasi snake di atas dihasilkan otomatis lewat GitHub Actions ([Platane/snk](https://github.com/Platane/snk)). Tambahkan workflow berikut di repo profil (`maulanasarowis/maulanasarowis`) agar animasinya aktif:
->
-> ```yaml
-> name: generate snake animation
-> on:
->   schedule:
->     - cron: "0 0 * * *"
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: maulanasarowis
->           outputs: |
->             dist/github-contribution-grid-snake-dark.svg
->             dist/github-contribution-grid-snake.svg?palette=github
->       - uses: crazy-max/ghaction-github-pages@v4
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ "{{" }} secrets.GITHUB_TOKEN {{ "}}" }}
-> ```
 
 <br/>
 
